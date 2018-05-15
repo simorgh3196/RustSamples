@@ -1,0 +1,1 @@
+/Users/t-hayakawa/go/src/github.com/simorgh3196/RustSamples/enum_and_matching/target/rls/debug/libenum_and_matching.rmeta: /Users/t-hayakawa/go/src/github.com/simorgh3196/RustSamples/enum_and_matching/src/main.rs
